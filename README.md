@@ -1,9 +1,4 @@
-## Hi there 👋
-
 <!--
-**GabrielJefte/GabrielJefte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  GABRIEL.OS  ·  README de perfil                                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
@@ -11,7 +6,6 @@ Here are some ideas to get you started:<!--
 ║                                                                      ║
 ║    SEU_USUARIO            →  seu usuário do GitHub                   ║
 ║    NOME_DO_REPO_1 ao 4    →  nomes dos seus repositórios (cards)     ║
-║    SEU_LINKEDIN  ·  SEU_INSTAGRAM  ·  SEU_EMAIL  ·  SEU_DISCORD_ID   ║
 ║                                                                      ║
 ║  Paleta:  fundo 0A0E1A  ·  ciano 00E5FF  ·  magenta FF2E97           ║
 ║           violeta 7B2FFF  ·  verde terminal 00FF9C                   ║
@@ -21,22 +15,22 @@ Here are some ideas to get you started:<!--
 <div align="center">
 
 <!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,45:7B2FFF,100:00E5FF&height=230&section=header&text=GABRIEL%20JEFTE&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%2F%2F%20SYSTEM%20ONLINE%20%7C%20IA%20%2B%20C%C3%93DIGO%20%2B%20UX%2FUI&descSize=18&descAlignY=62" alt="Gabriel Jefte - System Online" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,45:7B2FFF,100:00E5FF&height=230&section=header&text=GABRIEL%20JEFTE&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=%2F%2F%20SYSTEM%20ONLINE%20%7C%20C%C3%93DIGO%20%2B%20UX%2FUI&descSize=18&descAlignY=62" alt="Gabriel Jefte - System Online" width="100%" />
 
 <!-- SEQUÊNCIA DE INICIALIZAÇÃO (digita uma vez e permanece na tela) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=350&color=00FF9C&background=0A0E1A&center=true&vCenter=true&multiline=true&repeat=false&width=480&height=190&lines=%3E+INICIANDO+GABRIEL.OS+v1.0+...;%5B+OK+%5D+M%C3%B3dulo+CURIOSIDADE+carregado;%5B+OK+%5D+M%C3%B3dulo+IA+%2B+C%C3%93DIGO+carregado;%5B+OK+%5D+M%C3%B3dulo+UX%2FUI+carregado;%5B+OK+%5D+Conectando+%C3%A0+rede+neural...;%3E%3E+SISTEMA+ONLINE.+BEM-VINDO%21" alt="Sequência de inicialização do GABRIEL.OS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=350&color=00FF9C&background=0A0E1A&center=true&vCenter=true&multiline=true&repeat=false&width=480&height=190&lines=%3E+INICIANDO+GABRIEL.OS+v1.0+...;%5B+OK+%5D+M%C3%B3dulo+CURIOSIDADE+carregado;%5B+OK+%5D+M%C3%B3dulo+C%C3%93DIGO+carregado;%5B+OK+%5D+M%C3%B3dulo+UX%2FUI+carregado;%5B+OK+%5D+Conectando+ao+n%C3%BAcleo...;%3E%3E+SISTEMA+ONLINE.+BEM-VINDO%21" alt="Sequência de inicialização do GABRIEL.OS" />
 
 <br />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&background=0A0E1A&center=true&vCenter=true&width=700&height=48&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Jefte;Iniciando+minha+jornada+tech;Explorando+IA+%2B+C%C3%B3digo;Apaixonado+por+UX%2FUI+e+jornada+do+usu%C3%A1rio;Transformando+ideias+em+interfaces;Aprendendo+algo+novo+todo+dia" alt="Gabriel Jefte: iniciando jornada tech, explorando IA, código e UX/UI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&background=0A0E1A&center=true&vCenter=true&width=700&height=48&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Jefte;Iniciando+minha+jornada+tech;Estudando+HTML%2C+CSS+e+JavaScript;Apaixonado+por+UX%2FUI+e+jornada+do+usu%C3%A1rio;Transformando+ideias+em+interfaces;Aprendendo+algo+novo+todo+dia" alt="Gabriel Jefte: iniciando jornada tech, estudando código e UX/UI" />
 
 <br /><br />
 
 <!-- BADGES DE STATUS -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=0A0E1A" alt="Status online" />
 <img src="https://img.shields.io/badge/N%C3%8DVEL-EM_EVOLU%C3%87%C3%83O-00E5FF?style=for-the-badge&labelColor=0A0E1A" alt="Nível: em evolução" />
-<img src="https://img.shields.io/badge/FOCO-IA_%2B_C%C3%93DIGO_%2B_UX%2FUI-FF2E97?style=for-the-badge&labelColor=0A0E1A" alt="Foco: IA, código e UX/UI" />
+<img src="https://img.shields.io/badge/FOCO-C%C3%93DIGO_%2B_UX%2FUI-FF2E97?style=for-the-badge&labelColor=0A0E1A" alt="Foco: código e UX/UI" />
 <br />
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITANTES&color=7B2FFF&style=for-the-badge" alt="Contador de visitantes" />
 <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=00E5FF&color=7B2FFF&labelColor=0A0E1A" alt="Seguidores no GitHub" />
@@ -52,9 +46,8 @@ Here are some ideas to get you started:<!--
 <p align="center">
   Olá! Sou <b>Gabriel Jefte</b> e estou no início da minha jornada na programação.<br />
   Aprendo construindo: cada linha de código, cada erro e cada commit fazem parte da evolução.<br /><br />
-  Quero unir <b>programação</b>, <b>inteligência artificial</b> e <b>UX/UI</b> para criar<br />
-  experiências simples, inteligentes e pensadas para quem usa.<br />
-  Uso a IA como copiloto de estudo, não como muleta.
+  Quero unir <b>programação</b> e <b>UX/UI</b> para criar experiências simples,<br />
+  bonitas e pensadas para quem usa, olhando sempre para a <b>jornada do usuário</b>.
 </p>
 
 ```json
@@ -62,9 +55,9 @@ Here are some ideas to get you started:<!--
   "nome": "Gabriel Jefte",
   "classe": "Dev em formação",
   "status": "Em evolução constante",
-  "foco_atual": ["IA + Código", "UX/UI", "Jornada do usuário"],
+  "foco_atual": ["Programação", "UX/UI", "Jornada do usuário"],
   "em_estudo": ["HTML", "CSS", "JavaScript", "C#", "Python", "SQL"],
-  "missao": "Criar interfaces inteligentes, simples e humanas",
+  "missao": "Criar interfaces simples, bonitas e humanas",
   "aberto_a": ["aprender", "colaborar", "projetos open source"]
 }
 ```
@@ -121,7 +114,6 @@ Here are some ideas to get you started:<!--
     <tr><td><b>VS Code</b></td><td align="center"><code>▰▰▱▱▱</code></td><td>Editor principal de código</td></tr>
     <tr><td><b>Git</b></td><td align="center"><code>▰▰▱▱▱</code></td><td>Commits, branches e histórico</td></tr>
     <tr><td><b>GitHub</b></td><td align="center"><code>▰▰▱▱▱</code></td><td>Repositórios, portfólio e colaboração</td></tr>
-    <tr><td><b>IA assistida</b></td><td align="center"><code>▰▰▱▱▱</code></td><td>Copiloto para estudar, depurar e prototipar</td></tr>
     <tr><td><b>UX/UI</b></td><td align="center"><code>▰▰▱▱▱</code></td><td>Jornada do usuário, fluxos e interfaces</td></tr>
   </tbody>
 </table>
@@ -165,7 +157,6 @@ Here are some ideas to get you started:<!--
 [>] Usar Git e GitHub no dia a dia (commits, branches e pull requests)
 
 # ▸ EXPLORANDO
-[~] IA como copiloto para estudar, depurar e prototipar
 [~] UX/UI: jornada do usuário, wireframes e interfaces
 
 # ▸ PRÓXIMAS MISSÕES
@@ -228,13 +219,13 @@ Here are some ideas to get you started:<!--
 <p align="center">
   <a href="https://github.com/SEU_USUARIO"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gabrieljefte/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn: Gabriel Jefte" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/SEU_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="E-mail" /></a>
+  <a href="https://instagram.com/sites.vision"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram: sites.vision" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DISCORD-jeff7170-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0E1A" alt="Discord: jeff7170" />
 </p>
 
 <br />
@@ -247,16 +238,6 @@ Here are some ideas to get you started:<!--
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,45:7B2FFF,100:00E5FF&height=120&section=footer" alt="" width="100%" />
 
-<sub>© 2026 Gabriel Jefte &nbsp;|&nbsp; Feito com curiosidade, café e IA</sub>
+<sub>© 2026 Gabriel Jefte &nbsp;|&nbsp; Feito com curiosidade e café</sub>
 
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
