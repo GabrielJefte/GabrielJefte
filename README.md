@@ -4,7 +4,6 @@
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Antes de publicar, use Localizar e Substituir (Ctrl+H) em:          ║
 ║                                                                      ║
-║    SEU_USUARIO            →  seu usuário do GitHub                   ║
 ║    NOME_DO_REPO_1 ao 4    →  nomes dos seus repositórios (cards)     ║
 ║                                                                      ║
 ║  Paleta:  fundo 0A0E1A  ·  ciano 00E5FF  ·  magenta FF2E97           ║
@@ -32,8 +31,8 @@
 <img src="https://img.shields.io/badge/N%C3%8DVEL-EM_EVOLU%C3%87%C3%83O-00E5FF?style=for-the-badge&labelColor=0A0E1A" alt="Nível: em evolução" />
 <img src="https://img.shields.io/badge/FOCO-C%C3%93DIGO_%2B_UX%2FUI-FF2E97?style=for-the-badge&labelColor=0A0E1A" alt="Foco: código e UX/UI" />
 <br />
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITANTES&color=7B2FFF&style=for-the-badge" alt="Contador de visitantes" />
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=00E5FF&color=7B2FFF&labelColor=0A0E1A" alt="Seguidores no GitHub" />
+<img src="https://komarev.com/ghpvc/?username=GabrielJefte&label=VISITANTES&color=7B2FFF&style=for-the-badge" alt="Contador de visitantes" />
+<img src="https://img.shields.io/github/followers/GabrielJefte?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=00E5FF&color=7B2FFF&labelColor=0A0E1A" alt="Seguidores no GitHub" />
 
 </div>
 
@@ -132,11 +131,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_1"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_1&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 1" /></a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_2"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 2" /></a>
+<a href="https://github.com/GabrielJefte/NOME_DO_REPO_1"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJefte&repo=NOME_DO_REPO_1&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 1" /></a>
+<a href="https://github.com/GabrielJefte/NOME_DO_REPO_2"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJefte&repo=NOME_DO_REPO_2&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 2" /></a>
 <br />
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_3"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_3&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 3" /></a>
-<a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_4"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_4&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 4" /></a>
+<a href="https://github.com/GabrielJefte/NOME_DO_REPO_3"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJefte&repo=NOME_DO_REPO_3&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 3" /></a>
+<a href="https://github.com/GabrielJefte/NOME_DO_REPO_4"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielJefte&repo=NOME_DO_REPO_4&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=7B2FFF&locale=pt-br" alt="Projeto 4" /></a>
 
 </div>
 
@@ -177,16 +176,16 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&ring_color=7B2FFF&border_color=7B2FFF&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&border_color=7B2FFF&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=GabrielJefte&show_icons=true&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&ring_color=7B2FFF&border_color=7B2FFF&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJefte&layout=compact&langs_count=8&bg_color=0A0E1A&title_color=00E5FF&text_color=C9D1D9&border_color=7B2FFF&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&background=0A0E1A&border=7B2FFF&stroke=1F2A44&ring=00E5FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com/?user=GabrielJefte&background=0A0E1A&border=7B2FFF&stroke=1F2A44&ring=00E5FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0A0E1A&color=00E5FF&line=7B2FFF&point=FF2E97&area=true&area_color=7B2FFF&hide_border=true&custom_title=Atividade+nos+%C3%BAltimos+30+dias" alt="Gráfico de atividade" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielJefte&bg_color=0A0E1A&color=00E5FF&line=7B2FFF&point=FF2E97&area=true&area_color=7B2FFF&hide_border=true&custom_title=Atividade+nos+%C3%BAltimos+30+dias" alt="Gráfico de atividade" />
 
 </div>
 
@@ -197,7 +196,7 @@
 <h2 align="center">// CONQUISTAS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielJefte&theme=radical&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
 </p>
 
 <br />
@@ -207,7 +206,7 @@
 <h2 align="center">// CONTRIBUIÇÕES</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-neon.svg" alt="Animação da cobrinha comendo as contribuições" />
+  <img width="100%" src="https://raw.githubusercontent.com/GabrielJefte/GabrielJefte/output/github-snake-neon.svg" alt="Animação da cobrinha comendo as contribuições" />
 </p>
 
 <br />
@@ -217,7 +216,7 @@
 <h2 align="center">// CONECTAR</h2>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
+  <a href="https://github.com/GabrielJefte"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabrieljefte/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn: Gabriel Jefte" /></a>
   &nbsp;&nbsp;
